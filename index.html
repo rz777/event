@@ -45,7 +45,7 @@
 		}else{
 
 			$.getJSON('https://lunacia.skymavis.com/game-api/clients/'+scholars[index].adress+'/items/1', function (data) {
-			  scholars[index].slp = data.total-scholars[index].slpsnapshot;
+			  scholars[index].slp = data.blockchain_related.signature.amount-scholars[index].slpsnapshot;
 
 			  total= total+ scholars[index].slp;
 			  $("#ladderList").append("<li>Name: "+scholars[index].name+" / Farmed: "+ scholars[index].slp+" / Bonus "+ Math.round(total*0.001*0.3)+"</li>");
