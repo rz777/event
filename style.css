@@ -11,7 +11,7 @@ h1, h2, h3, li, p{
 }
 
 h1,h2,h3{
-	font-family: 'Texturina', serif;
+	font-family: 'Roboto', serif;
 }
 
 ul{
@@ -22,7 +22,7 @@ ul{
 
 li{
 	width:60%;
-	background-color:#ff6449;
+	background-color:#cccccc;
 	margin-left:20%;
 	margin-bottom:2px;
 	font-size:20px;
