@@ -1,0 +1,62 @@
+var scholars=[
+    {
+        "slot": "1",
+        "name": "Jean tm",
+        "adress": "0xc48d03598f172A3Dd2aDdAA751f1c05393c0C61A",
+        "slpsnapshot": "407"
+    },
+    {
+        "slot": "2",
+        "name": "Mammon",
+        "adress": "0x2AF783ca0CeC67C0294c89a5F5ba944f7245E660",
+        "slpsnapshot": "5219"
+    },
+    {
+        "slot": "3",
+        "name": "Alyani",
+        "adress": "0x30BAb9c105c0F39c5eAE900f79fAf2CE71B38C7c",
+        "slpsnapshot": "1628"
+    },
+    {
+        "slot": "4",
+        "name": "Andreshn06",
+        "adress": "0x10a469E144F329368035530FbB0B0f50d17E694e",
+        "slpsnapshot": "318"
+    },
+    {
+        "slot": "5",
+        "name": "Oracleruby",
+        "adress": "0x4242013c1458FfF2c72BD3973fFb5679727C9cf0",
+        "slpsnapshot": "410"
+    },
+    {
+        "slot": "6",
+        "name": "[GUETTOO] BoopeRJ",
+        "adress": "0x1216b5B72d9508663D5C39443BdA2707cb4A71D5",
+        "slpsnapshot": "1475"
+    },
+    {
+        "slot": "7",
+        "name": "CharmanderBestStarter",
+        "adress": "0x97532C6cd648710Fa33B922540ddd909b75222A6",
+        "slpsnapshot": "3656"
+    },
+    {
+        "slot": "8",
+        "name": "jerry19",
+        "adress": "0xb53e3ed19E02CA9e386463104d066AD6d57fb234",
+        "slpsnapshot": "2710"
+    },
+    {
+        "slot": "9",
+        "name": "qspire",
+        "adress": "0xA672D390FdCDf361f561463633c5697be98b1352",
+        "slpsnapshot": "806"
+    },
+    {
+        "slot": "10",
+        "name": "nikita1051",
+        "adress": "0xf9332BD873E8709C3E48d53fba0FE358C052968d",
+        "slpsnapshot": "3882"
+    }
+]
