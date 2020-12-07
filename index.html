@@ -10,7 +10,7 @@
     </head>
 
 <body>	
-	<center><div id='Axie'><img src="zuluxmassmall.png" style="width:30%;height:auto;"></a></div></center>
+	<center><div id='Axie'><img src="zuluxmassmall.png" style="width:50%;height:auto;"></a></div></center>
 	<h1><font color=#7b273c>Zulu Gaming - Christmas Event!</h1></u>
     <h2>Everyone gets more SLP for farming all Christmas! :-)</h2>
     <h3> <u>Name - SLP farmed</h3></font></u>
@@ -38,7 +38,7 @@
 	function getSlps(index,callback){
 		if(index == scholars.length){
 			$("#stats").append("<p></p>");
-			$("#stats").append("<div id='prizeDiv'><p><b>Total SLP collected: </b>"+(total)+"</p><p><b>1st prize: </b>"+Math.round(total*0.015*0.3)+" SLP <br><b>2nd prize: </b>"+Math.round(total*0.01*0.3)+" SLP <br><b>3rd prize: </b>"+Math.round(total*0.005*0.3)+" SLP </p></div>");
+			$("#stats").append("<div id='prizeDiv'><p><b>Total SLP collected: "+(total)+" SLP</b></p><p><b>Total Bonus for everyone: "+(Math.round(total*0.001*0.3))+" SLP</b></p><p><b>1st prize: </b>"+Math.round(total*0.015*0.3)+" SLP <br><b>2nd prize: </b>"+Math.round(total*0.01*0.3)+" SLP <br><b>3rd prize: </b>"+Math.round(total*0.005*0.3)+" SLP </p></div>");
 			sortList();
 
 			return;
@@ -48,7 +48,7 @@
 			  scholars[index].slp = data.blockchain_related.signature.amount-scholars[index].slpsnapshot;
 
 			  total= total+ scholars[index].slp;
-			  $("#ladderList").append("<li>Name: "+scholars[index].name+" / Farmed: "+ scholars[index].slp+" / Bonus "+ Math.round(total*0.001*0.3)+"</li>");
+			  $("#ladderList").append("<li>Name: "+scholars[index].name+" / Farmed: "+ scholars[index].slp+"</li>");
 			  getSlps(index+1);
 			});
 		}
@@ -65,9 +65,9 @@
 		var sortedList = scholars.sort(Comparator);
 		for(var i = 0; i<sortedList.length;i++){
 			if(i<3){
-				text=text+"<li class='winners'>"+sortedList[i].name+" - "+sortedList[i].slp+"</li>"
+				text=text+"<li class='winners'>Name: "+sortedList[i].name+" Farmed: "+sortedList[i].slp+" SLP</li>"
 			}else{
-				text=text+"<li class>"+sortedList[i].name+" - "+sortedList[i].slp+"</li>"
+				text=text+"<li class>Name: "+sortedList[i].name+" Farmed: "+sortedList[i].slp+" SLP</li>"
 			}		
 		}
 		$("#ladderList").html(text);
