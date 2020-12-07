@@ -16,7 +16,7 @@ h1,h2,h3{
 
 ul{
 	list-style:none;
-    padding:0;
+    padding:10px;
     margin:0;
 }
 
@@ -24,12 +24,14 @@ li{
 	width:60%;
 	background-color:#999999;
 	margin-left:20%;
-	margin-bottom:10%;
+	margin-bottom:10px;
+	padding:10px;
 	font-size:20px;
 }
 
 li.winners{	
 	background-color:#31a74c;
+	padding:10px;
 }
 
 #prizeDiv{
@@ -38,7 +40,7 @@ li.winners{
 	background-color:#31a74c;
 	width:30%;
 	margin-left:35%;
-	padding:10%;
+	padding:10px;
 }
 
 #Axie{
