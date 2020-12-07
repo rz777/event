@@ -1,62 +1,182 @@
 var scholars=[
-    {
-        "slot": "1",
-        "name": "Jean tm",
-        "adress": "0xc48d03598f172A3Dd2aDdAA751f1c05393c0C61A",
-        "slpsnapshot": "407"
-    },
-    {
-        "slot": "2",
-        "name": "Mammon",
-        "adress": "0x2AF783ca0CeC67C0294c89a5F5ba944f7245E660",
-        "slpsnapshot": "5219"
-    },
-    {
-        "slot": "3",
-        "name": "Alyani",
-        "adress": "0x30BAb9c105c0F39c5eAE900f79fAf2CE71B38C7c",
-        "slpsnapshot": "1628"
-    },
-    {
-        "slot": "4",
-        "name": "Andreshn06",
-        "adress": "0x10a469E144F329368035530FbB0B0f50d17E694e",
-        "slpsnapshot": "318"
-    },
-    {
-        "slot": "5",
-        "name": "Oracleruby",
-        "adress": "0x4242013c1458FfF2c72BD3973fFb5679727C9cf0",
-        "slpsnapshot": "410"
-    },
-    {
-        "slot": "6",
-        "name": "[GUETTOO] BoopeRJ",
-        "adress": "0x1216b5B72d9508663D5C39443BdA2707cb4A71D5",
-        "slpsnapshot": "1475"
-    },
-    {
-        "slot": "7",
-        "name": "CharmanderBestStarter",
-        "adress": "0x97532C6cd648710Fa33B922540ddd909b75222A6",
-        "slpsnapshot": "3656"
-    },
-    {
-        "slot": "8",
-        "name": "jerry19",
-        "adress": "0xb53e3ed19E02CA9e386463104d066AD6d57fb234",
-        "slpsnapshot": "2710"
-    },
-    {
-        "slot": "9",
-        "name": "qspire",
-        "adress": "0xA672D390FdCDf361f561463633c5697be98b1352",
-        "slpsnapshot": "806"
-    },
-    {
-        "slot": "10",
-        "name": "nikita1051",
-        "adress": "0xf9332BD873E8709C3E48d53fba0FE358C052968d",
-        "slpsnapshot": "3882"
-    }
+{
+"slot": "1",
+"name": "@Del",
+"adress": "0x18e464aA4eF0F17ea1Cd7FfF7d1C7526Ce6Ff804",
+"slpsnapshot": "2471"
+},
+{
+"slot": "2",
+"name": "@RamosMJ",
+"adress": "0x600fc520d32d61E4Be0DE1D0Ae3550d4D1CEEC8e",
+"slpsnapshot": "2539"
+},
+{
+"slot": "3",
+"name": "@itsmeAL",
+"adress": "0x06799E93aFe90ECD51a806b793f80737d9E03D35",
+"slpsnapshot": "2231"
+},
+{
+"slot": "4",
+"name": "@HAYOP",
+"adress": "0xE6D3DC3f73B211f0c654D4C0fe49f5A28a3efeb5",
+"slpsnapshot": "2102"
+},
+{
+"slot": "5",
+"name": "@YaSaY",
+"adress": "0x4312d5E0d1352192671e0aE3F6fd36d1F05A6BB2",
+"slpsnapshot": "2605"
+},
+{
+"slot": "6",
+"name": "@PA CO",
+"adress": "0x4B152aA8b3E5DBb216bF24d6Ac47B26a7cC82AC1",
+"slpsnapshot": "2506"
+},
+{
+"slot": "7",
+"name": "@elvin",
+"adress": "0x09dA8895e350ec4a3bF6f1B0412913269c69920C",
+"slpsnapshot": "2640"
+},
+{
+"slot": "8",
+"name": "@Ren",
+"adress": "0x6290C4383F3eF74d0CBc64130a9FE3C5c36E4c9d",
+"slpsnapshot": "3871"
+},
+{
+"slot": "9",
+"name": "@CASHLY-NICOLE",
+"adress": "0x88e4489427273A0b834D382e0eB1e044D332A118",
+"slpsnapshot": "1359"
+},
+{
+"slot": "10",
+"name": "@renceee",
+"adress": "0x646A206F31B856D289CfF042268B213cE73DaC2b",
+"slpsnapshot": "3812"
+},
+{
+"slot": "11",
+"name": "@Coco_",
+"adress": "0x270F106B60499fcD56D5a10483af57882b2a88e5",
+"slpsnapshot": "1541"
+},
+{
+"slot": "12",
+"name": "@Yeji",
+"adress": "0xD36776FB01D6C86a9417a3eb763e2a7edBb5209d",
+"slpsnapshot": "2141"
+},
+{
+"slot": "13",
+"name": "@Chi",
+"adress": "0x1CA9aa7c402335ADf401864CD6A26A38a84c781B",
+"slpsnapshot": "573"
+},
+{
+"slot": "14",
+"name": "@enteng",
+"adress": "0xb70F4dc62807349A0E0069FF83CaB7396327df7D",
+"slpsnapshot": "1501"
+},
+{
+"slot": "15",
+"name": "@BiyoGツ",
+"adress": "0x7F8B35556fDF268319066b79B52B307513e5dA21",
+"slpsnapshot": "1655"
+},
+{
+"slot": "16",
+"name": "@cjcjcj",
+"adress": "0x2B35f5bCBd198ac1b6D2E3F156Efb1588cB7085C",
+"slpsnapshot": "710"
+},
+{
+"slot": "17",
+"name": "@Mike Bolanio",
+"adress": "0x3133D1009E280ea0fA7Efa171823d2DaEfcad208",
+"slpsnapshot": "1559"
+},
+{
+"slot": "18",
+"name": "@Ashton",
+"adress": "0x0F315C952f20005A11286047c4DeeE74B2885E24",
+"slpsnapshot": "1224"
+},
+{
+"slot": "19",
+"name": "@awit",
+"adress": "0x1e7857b8911A0F8b4fED9f98cab362eD9EA8e9B4",
+"slpsnapshot": "1006"
+},
+{
+"slot": "21",
+"name": "@swooshyy",
+"adress": "0xFE5de666F1126F1F74264e8FDC2e8039C2ad08B2",
+"slpsnapshot": "1257"
+},
+{
+"slot": "22",
+"name": "@ValaR",
+"adress": "0x90b55a9251C9941FCff74F9134d83FBD77427A46",
+"slpsnapshot": "217"
+},
+{
+"slot": "23",
+"name": "@Terrius",
+"adress": "0x1eD6319E91E0A2B01562F638C97278B46F2ab7CD",
+"slpsnapshot": "203"
+},
+{
+"slot": "24",
+"name": "@Temerarious",
+"adress": "0xc5eB016D5A4FedEB2dAf6980BB3DfDdCe6AeD4D1",
+"slpsnapshot": "336"
+},
+{
+"slot": "25",
+"name": "@Pump",
+"adress": "0xD26cC9Db01633f8F517A1751924271636A8f1F10",
+"slpsnapshot": "333"
+},
+{
+"slot": "26",
+"name": "@Rudy",
+"adress": "0x7938c41EF57ab11C6343f41B7e38ca92F5A5cd5C",
+"slpsnapshot": "231"
+},
+{
+"slot": "27",
+"name": "@habadu",
+"adress": "0xBaAc99FfFd067E4F8c08Bdedb0278537E4Fe25fa",
+"slpsnapshot": "239"
+},
+{
+"slot": "28",
+"name": "@Kaiizer",
+"adress": "0xa778FA3Bb333090F9BD1aF2be04D885bb9D09f23",
+"slpsnapshot": "281"
+},
+{
+"slot": "29",
+"name": "@ProBot",
+"adress": "0xdA34663D49C5dEfb73dEf6794fdde2fd306EBdb0",
+"slpsnapshot": "207"
+},
+{
+"slot": "30",
+"name": "@Ice",
+"adress": "0x63C56CF006D0274cF36c0e0A38A3e90ea87E1e57",
+"slpsnapshot": "285"
+},
+{
+"slot": "31",
+"name": "@Raguto",
+"adress": "0x53eAA23f373573D1206149b946E2F724177f963C",
+"slpsnapshot": "218"
+}
 ]
