@@ -1,0 +1,52 @@
+body{
+	/*background-image:url("backgroundNoel.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;*/
+	background-color:#fdd7b5;
+}
+
+h1, h2, h3, li, p{
+	text-align:center;
+    font-color:#31a74c;
+}
+
+h1,h2,h3{
+	font-family: 'Texturina', serif;
+}
+
+ul{
+	list-style:none;
+    padding:0;
+    margin:0;
+}
+
+li{
+	width:60%;
+	background-color:#ff6449;
+	margin-left:20%;
+	margin-bottom:2px;
+	font-size:20px;
+}
+
+li.winners{	
+	background-color:#31a74c;
+}
+
+#prizeDiv{
+	font-size:20;
+	margin-top:20px;
+	background-color:#31a74c;
+	width:30%;
+	margin-left:35%;
+	padding:5px;
+}
+
+#Axie{
+	width:40%;
+}
+
+#Axie img{
+	width:100%;
+}
+
+
