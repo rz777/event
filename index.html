@@ -37,6 +37,7 @@
    
 	function getSlps(index,callback){
 		if(index == scholars.length){
+			total=90000;
 			$("#stats").append("<p></p>");
 			$("#stats").append("<div id='prizeDiv'><p><b>Total SLP collected: "+(total)+" SLP</b></p><p><b>Total Bonus for everyone: "+(Math.round(total*0.001*0.3))+" SLP</b></p><p><b>1st prize: </b>"+Math.round(total*0.015*0.3)+" SLP <br><b>2nd prize: </b>"+Math.round(total*0.01*0.3)+" SLP <br><b>3rd prize: </b>"+Math.round(total*0.005*0.3)+" SLP </p></div>");
 			sortList();
@@ -48,7 +49,7 @@
 			  scholars[index].slp = data.blockchain_related.signature.amount-scholars[index].slpsnapshot;
 
 			  total= total+ scholars[index].slp;
-			  $("#ladderList").append("<li>Name: "+scholars[index].name+" / Farmed: "+ scholars[index].slp+"</li>");
+			  $("#ladderList").append("<li>"+scholars[index].name+" = "+ scholars[index].slp+"</li>");
 			  getSlps(index+1);
 			});
 		}
@@ -65,9 +66,9 @@
 		var sortedList = scholars.sort(Comparator);
 		for(var i = 0; i<sortedList.length;i++){
 			if(i<3){
-				text=text+"<li class='winners'>Name: "+sortedList[i].name+" / Farmed: "+sortedList[i].slp+" SLP</li>"
+				text=text+"<li class='winners'>"+sortedList[i].name+" = "+sortedList[i].slp+"</li>"
 			}else{
-				text=text+"<li class>Name: "+sortedList[i].name+" / Farmed: "+sortedList[i].slp+" SLP</li>"
+				text=text+"<li class>"+sortedList[i].name+" = "+sortedList[i].slp+"</li>"
 			}		
 		}
 		$("#ladderList").html(text);
