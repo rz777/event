@@ -10,9 +10,9 @@
     </head>
 
 <body>	
-	<center><div id='Axie'><img src="axiexmas3.png"></a></div></center>
-	<h1><font color=#7b273c> Cat's and Reillz's Axie Friends presents:</h1></u>
-    <h2>2020 Christmas competition</h2>
+	<center><div id='Axie'><img src="zuluxmassmall.png"></a></div></center>
+	<h1><font color=#7b273c>Zulu Gaming - Christmas Event!</h1></u>
+    <h2>Everyone gets more SLP for farming all Christmas! :-)</h2>
     <h3> <u>Name - SLP farmed</h3></font></u>
     <div class="ladder">
     	<ul id=ladderList>
@@ -38,7 +38,7 @@
 	function getSlps(index,callback){
 		if(index == scholars.length){
 			$("#stats").append("<p></p>");
-			$("#stats").append("<div id='prizeDiv'><p><b>Total SLP collected: </b>"+(total)+"</p><p><b>1st prize: </b>"+Math.round(total*0.015*0.35)+" SLP <br><b>2nd prize: </b>"+Math.round(total*0.01*0.35)+" SLP <br><b>3rd prize: </b>"+Math.round(total*0.005*0.35)+" SLP </p></div>");
+			$("#stats").append("<div id='prizeDiv'><p><b>Total SLP collected: </b>"+(total)+"</p><p><b>1st prize: </b>"+Math.round(total*0.015*0.3)+" SLP <br><b>2nd prize: </b>"+Math.round(total*0.01*0.3)+" SLP <br><b>3rd prize: </b>"+Math.round(total*0.005*0.3)+" SLP </p></div>");
 			sortList();
 
 			return;
@@ -48,7 +48,7 @@
 			  scholars[index].slp = data.total-scholars[index].slpsnapshot;
 
 			  total= total+ scholars[index].slp;
-			  $("#ladderList").append("<li>"+scholars[index].name+" - "+ scholars[index].slp+"</li>");
+			  $("#ladderList").append("<li>Name: "+scholars[index].name+" / Farmed: "+ scholars[index].slp+" / Bonus "+ Math.round(total*0.001*0.3)+"</li>");
 			  getSlps(index+1);
 			});
 		}
