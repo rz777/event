@@ -2,12 +2,12 @@ body{
 	/*background-image:url("backgroundNoel.jpg");
 	background-repeat: no-repeat;
 	background-size:cover;*/
-	background-color:#fdd7b5;
+	background-color:#000000;
 }
 
 h1, h2, h3, li, p{
 	text-align:center;
-    font-color:#31a74c;
+    font-color:#FFFFFF;
 }
 
 h1,h2,h3{
