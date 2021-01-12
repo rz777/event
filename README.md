@@ -1,1 +1,1 @@
-# Zulu Gaming Christmas Event
+# Zulu Gaming Event
