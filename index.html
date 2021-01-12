@@ -38,7 +38,8 @@
 	function getSlps(index,callback){
 		if(index == scholars.length){
 			$("#stats").append("<p></p>");
-			$("#stats").append("<div id='prizeDiv'><font><p><b>Total SLP collected: "+(total)+" SLP</b></p><p><b>Total Bonus for everyone: "+(Math.round(total*0.0015*0.3))+" SLP</b></p><p><b>1st prize: </b>"+Math.round(total*0.015*0.3)+" SLP <br><b>2nd prize: </b>"+Math.round(total*0.01*0.3)+" SLP <br><b>3rd prize: </b>"+Math.round(total*0.005*0.3)+" SLP </p></font></div>");
+			total=150000;
+			$("#stats").append("<div id='prizeDiv'><font><p><b>Total SLP collected: "+(total)+" SLP</b></p><p><b>Total Bonus for everyone: "+(Math.round(total*0.005*0.3))+" SLP</b></p><p><b>1st prize: </b>"+Math.round(total*0.015*0.3)+" SLP <br><b>2nd prize: </b>"+Math.round(total*0.01*0.3)+" SLP <br><b>3rd prize: </b>"+Math.round(total*0.005*0.3)+" SLP </p></font></div>");
 			sortList();
 
 			return;
