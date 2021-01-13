@@ -21,7 +21,7 @@ var scholars=[
 "slot": "4",
 "name": "@HAYOP",
 "adress": "0xE6D3DC3f73B211f0c654D4C0fe49f5A28a3efeb5",
-"slpsnapshot": "11331"
+"slpsnapshot": "11431"
 },
 {
 "slot": "5",
@@ -165,7 +165,7 @@ var scholars=[
 "slot": "28",
 "name": "@Kaiizer",
 "adress": "0xa778FA3Bb333090F9BD1aF2be04D885bb9D09f23",
-"slpsnapshot": "3593"
+"slpsnapshot": "3690"
 },
 {
 "slot": "29",
@@ -201,7 +201,7 @@ var scholars=[
 "slot": "34",
 "name": "@Nemeziz",
 "adress": "0x662Abea7be70967Fd216cCf8f8A56D90Bf2DbC2b",
-"slpsnapshot": "1987"
+"slpsnapshot": "2069"
 },
 {
 "slot": "35",
@@ -225,7 +225,7 @@ var scholars=[
 "slot": "38",
 "name": "@kowner",
 "adress": "0x38650c3be5341F7E405F9070Aa4e0C7459A58Fb7",
-"slpsnapshot": "1510"
+"slpsnapshot": "1658"
 },
 {
 "slot": "39",
@@ -243,7 +243,7 @@ var scholars=[
 "slot": "41",
 "name": "@Kouhryu",
 "adress": "0x56f99D7BCcEC777e4068d514ACe47440d6e910FA",
-"slpsnapshot": "1051"
+"slpsnapshot": "1147"
 },
 {
 "slot": "42",
