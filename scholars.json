@@ -229,9 +229,9 @@ var scholars=[
 },
 {
 "slot": "39",
-"name": "@Clint",
-"adress": "0x74f8CAA920fC5a9f266A6BE80763Fa91561f9D75",
-"slpsnapshot": "2508"
+"name": "@blank",
+"adress": "0x22AE7B5ef1Bfa912066852b123b594aDa66B86d6",
+"slpsnapshot": "0"
 },
 {
 "slot": "40",
