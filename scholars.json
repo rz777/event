@@ -1,284 +1,308 @@
 var scholars=[
 {
 "slot": "1",
-"name": "@del",
+"name": "@opelplays",
 "adress": "0x18e464aA4eF0F17ea1Cd7FfF7d1C7526Ce6Ff804",
-"slpsnapshot": "7620"
+"slpsnapshot": "19556"
 },
 {
 "slot": "2",
 "name": "@third709",
 "adress": "0x600fc520d32d61E4Be0DE1D0Ae3550d4D1CEEC8e",
-"slpsnapshot": "9765"
+"slpsnapshot": "23432"
 },
 {
 "slot": "3",
 "name": "@itsmeAL",
 "adress": "0x06799E93aFe90ECD51a806b793f80737d9E03D35",
-"slpsnapshot": "8915"
+"slpsnapshot": "21295"
 },
 {
 "slot": "4",
-"name": "@HAYOP",
+"name": "@HAYOP | ZULU",
 "adress": "0xE6D3DC3f73B211f0c654D4C0fe49f5A28a3efeb5",
-"slpsnapshot": "11431"
+"slpsnapshot": "36375"
 },
 {
 "slot": "5",
 "name": "@YaSaY",
 "adress": "0x4312d5E0d1352192671e0aE3F6fd36d1F05A6BB2",
-"slpsnapshot": "6197"
+"slpsnapshot": "17762"
 },
 {
 "slot": "6",
 "name": "@PA CO",
 "adress": "0x4B152aA8b3E5DBb216bF24d6Ac47B26a7cC82AC1",
-"slpsnapshot": "9920"
+"slpsnapshot": "24242"
 },
 {
 "slot": "7",
 "name": "@elvin",
 "adress": "0x09dA8895e350ec4a3bF6f1B0412913269c69920C",
-"slpsnapshot": "10033"
+"slpsnapshot": "22831"
 },
 {
 "slot": "8",
 "name": "@Ren",
 "adress": "0x6290C4383F3eF74d0CBc64130a9FE3C5c36E4c9d",
-"slpsnapshot": "12256"
+"slpsnapshot": "39921"
 },
 {
 "slot": "9",
 "name": "@CASHLY-NICOLE",
 "adress": "0x88e4489427273A0b834D382e0eB1e044D332A118",
-"slpsnapshot": "4191"
+"slpsnapshot": "11933"
 },
 {
 "slot": "10",
 "name": "@Zyndryx",
 "adress": "0x646A206F31B856D289CfF042268B213cE73DaC2b",
-"slpsnapshot": "11009"
+"slpsnapshot": "23747"
 },
 {
 "slot": "11",
 "name": "@Coco_",
 "adress": "0x270F106B60499fcD56D5a10483af57882b2a88e5",
-"slpsnapshot": "9526"
+"slpsnapshot": "39771"
 },
 {
 "slot": "12",
-"name": "@Yeji",
+"name": "@ben.",
 "adress": "0xD36776FB01D6C86a9417a3eb763e2a7edBb5209d",
-"slpsnapshot": "7912"
+"slpsnapshot": "19532"
 },
 {
 "slot": "13",
-"name": "@Chi",
+"name": "@tsunayoshi",
 "adress": "0x1CA9aa7c402335ADf401864CD6A26A38a84c781B",
-"slpsnapshot": "5967"
+"slpsnapshot": "15683"
 },
 {
 "slot": "14",
 "name": "@enteng",
 "adress": "0xb70F4dc62807349A0E0069FF83CaB7396327df7D",
-"slpsnapshot": "7367"
+"slpsnapshot": "16875"
 },
 {
 "slot": "15",
 "name": "@Eizen",
 "adress": "0x7F8B35556fDF268319066b79B52B307513e5dA21",
-"slpsnapshot": "5701"
+"slpsnapshot": "16036"
 },
 {
 "slot": "16",
-"name": "@cjcjcj",
+"name": "@JMAN",
 "adress": "0x2B35f5bCBd198ac1b6D2E3F156Efb1588cB7085C",
-"slpsnapshot": "4510"
+"slpsnapshot": "13470"
 },
 {
 "slot": "17",
 "name": "@Mike Bolanio",
 "adress": "0x3133D1009E280ea0fA7Efa171823d2DaEfcad208",
-"slpsnapshot": "7482"
+"slpsnapshot": "21764"
 },
 {
 "slot": "18",
 "name": "@Ashton",
 "adress": "0x0F315C952f20005A11286047c4DeeE74B2885E24",
-"slpsnapshot": "7264"
+"slpsnapshot": "17575"
 },
 {
 "slot": "19",
 "name": "@awit",
 "adress": "0x1e7857b8911A0F8b4fED9f98cab362eD9EA8e9B4",
-"slpsnapshot": "4164"
+"slpsnapshot": "12598"
 },
 {
 "slot": "20",
 "name": "@fafapp",
 "adress": "0xCf36d961B36a008e00589046f32215366D5534B4",
-"slpsnapshot": "2137"
+"slpsnapshot": "15305"
 },
 {
 "slot": "21",
 "name": "@swooshyy",
 "adress": "0xFE5de666F1126F1F74264e8FDC2e8039C2ad08B2",
-"slpsnapshot": "7754"
+"slpsnapshot": "21583"
 },
 {
 "slot": "22",
 "name": "@! ValaR",
 "adress": "0x90b55a9251C9941FCff74F9134d83FBD77427A46",
-"slpsnapshot": "6420"
+"slpsnapshot": "16886"
 },
 {
 "slot": "23",
 "name": "@Terrius",
 "adress": "0x1eD6319E91E0A2B01562F638C97278B46F2ab7CD",
-"slpsnapshot": "5686"
+"slpsnapshot": "13681"
 },
 {
 "slot": "24",
 "name": "@Temerarious",
 "adress": "0xc5eB016D5A4FedEB2dAf6980BB3DfDdCe6AeD4D1",
-"slpsnapshot": "11034"
+"slpsnapshot": "40124"
 },
 {
 "slot": "25",
 "name": "@Pump",
 "adress": "0xD26cC9Db01633f8F517A1751924271636A8f1F10",
-"slpsnapshot": "5810"
+"slpsnapshot": "17063"
 },
 {
 "slot": "26",
 "name": "@Rudy",
 "adress": "0x7938c41EF57ab11C6343f41B7e38ca92F5A5cd5C",
-"slpsnapshot": "7609"
+"slpsnapshot": "21196"
 },
 {
 "slot": "27",
 "name": "@habadu",
 "adress": "0xBaAc99FfFd067E4F8c08Bdedb0278537E4Fe25fa",
-"slpsnapshot": "10500"
+"slpsnapshot": "38190"
 },
 {
 "slot": "28",
 "name": "@Kaiizer",
 "adress": "0xa778FA3Bb333090F9BD1aF2be04D885bb9D09f23",
-"slpsnapshot": "3690"
+"slpsnapshot": "10145"
 },
 {
 "slot": "29",
-"name": "@Djoshua",
+"name": "@cupcake",
 "adress": "0xdA34663D49C5dEfb73dEf6794fdde2fd306EBdb0",
-"slpsnapshot": "2435"
+"slpsnapshot": "11439"
 },
 {
 "slot": "30",
 "name": "@Ice",
 "adress": "0x63C56CF006D0274cF36c0e0A38A3e90ea87E1e57",
-"slpsnapshot": "10633"
+"slpsnapshot": "40115"
 },
 {
 "slot": "31",
 "name": "@Johnns",
 "adress": "0x53eAA23f373573D1206149b946E2F724177f963C",
-"slpsnapshot": "6880"
+"slpsnapshot": "22625"
 },
 {
 "slot": "32",
 "name": "@zoroku",
 "adress": "0x42cEa998aBE653FCAE8939a038861161F1f73984",
-"slpsnapshot": "1710"
+"slpsnapshot": "9941"
 },
 {
 "slot": "33",
 "name": "@Arcreact",
 "adress": "0x52C4ae700e508f35B9157f4C4216B45C936f6F27",
-"slpsnapshot": "3051"
+"slpsnapshot": "18687"
 },
 {
 "slot": "34",
-"name": "@Nemeziz",
+"name": "@Tobi_69",
 "adress": "0x662Abea7be70967Fd216cCf8f8A56D90Bf2DbC2b",
-"slpsnapshot": "2069"
+"slpsnapshot": "11067"
 },
 {
 "slot": "35",
 "name": "@ahearts60",
 "adress": "0x0712AaB7b44cbb3B7Ac4270c7d35810994998871",
-"slpsnapshot": "2882"
+"slpsnapshot": "17043"
 },
 {
 "slot": "36",
 "name": "@megu",
 "adress": "0xcd8fB7D1E72374922Ccf3D8fd7B8A715375c42a5",
-"slpsnapshot": "2036"
+"slpsnapshot": "14836"
 },
 {
 "slot": "37",
 "name": "@Rhyolite",
 "adress": "0x6805F9482CCb105f9876018b0FBE466115Ef0F7c",
-"slpsnapshot": "1375"
+"slpsnapshot": "13453"
 },
 {
 "slot": "38",
 "name": "@kowner",
 "adress": "0x38650c3be5341F7E405F9070Aa4e0C7459A58Fb7",
-"slpsnapshot": "1658"
+"slpsnapshot": "11777"
 },
 {
 "slot": "39",
-"name": "@blank",
-"adress": "0x22AE7B5ef1Bfa912066852b123b594aDa66B86d6",
-"slpsnapshot": "0"
+"name": "<@!0>",
+"adress": "0x74f8CAA920fC5a9f266A6BE80763Fa91561f9D75",
+"slpsnapshot": "3174"
 },
 {
 "slot": "40",
 "name": "@Domooo // Kisuke",
 "adress": "0x725e6fcB593F87e7187f74e5673b6Ee2011d5aEf",
-"slpsnapshot": "2618"
+"slpsnapshot": "17342"
 },
 {
 "slot": "41",
 "name": "@Kouhryu",
 "adress": "0x56f99D7BCcEC777e4068d514ACe47440d6e910FA",
-"slpsnapshot": "1147"
+"slpsnapshot": "13164"
 },
 {
 "slot": "42",
 "name": "@darewere",
 "adress": "0xe4D04c4dBc140B8D09e2dc266FA544b0971E20F6",
-"slpsnapshot": "2536"
+"slpsnapshot": "16696"
 },
 {
 "slot": "43",
 "name": "@samuraisan",
 "adress": "0xF80fb8E1327950fc975D9e5dd187ffb1b145aC14",
-"slpsnapshot": "1936"
+"slpsnapshot": "16400"
 },
 {
 "slot": "44",
 "name": "@Ai",
 "adress": "0x563aD8a863f937Ac8646A4F168a1171b16ABC8d6",
-"slpsnapshot": "729"
+"slpsnapshot": "11881"
 },
 {
 "slot": "45",
 "name": "@baragbagan",
 "adress": "0xb6DaD2b71a9e8923cF0A3FA7F169419497996925",
-"slpsnapshot": "1944"
+"slpsnapshot": "14560"
 },
 {
 "slot": "46",
 "name": "@Barbarian Queen",
 "adress": "0xb7954A12B7a45F135DA7C33F1196c995882FC658",
-"slpsnapshot": "1799"
+"slpsnapshot": "14070"
 },
 {
 "slot": "47",
 "name": "@Najim",
 "adress": "0x13102a42a2BEce68A0fc4f8F203eE88b695B7FD4",
-"slpsnapshot": "626"
+"slpsnapshot": "12334"
+},
+{
+"slot": "48",
+"name": "@blank",
+"adress": "0x22AE7B5ef1Bfa912066852b123b594aDa66B86d6",
+"slpsnapshot": "13169"
+},
+{
+"slot": "49",
+"name": "@dj.mbbz",
+"adress": "0xAD095De41A962FeA804fF2E3b378BFAE1E030217",
+"slpsnapshot": "6247"
+},
+{
+"slot": "50",
+"name": "@Je'thaime",
+"adress": "0x1A3f6419C8f3051A55BA60D823c97f7cE2B56D8A",
+"slpsnapshot": "6623"
+},
+{
+"slot": "51",
+"name": "@eladnor",
+"adress": "0x8Cc557128950F13671F0f1A7445D61a0119Ee43D",
+"slpsnapshot": "6079"
 },
 ]
