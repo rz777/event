@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Zulu Gaming Event!</title>
+<title>Zulu Gaming - Farming Bonus Event!</title>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="scholars.json"></script>
     <link rel="stylesheet" href="style.css">
@@ -11,8 +11,8 @@
 
 <body>	
 	<center><div id='Axie'><img src="Zulu.png" style="width:50%;height:auto;"></a></div></center>
-	<h1><font color=#FFFFFF><b>Zulu Gaming - Chinese New Year Event!</b></h1>
-		<h2><font color=#FFFFFF><b>Everyone gets more SLP for farming until Chinese New Year! :-)</b></font></h2>
+	<h1><font color=#FFFFFF><b>Zulu Gaming - Farming Bonus Event!</b></h1>
+		<h2><font color=#FFFFFF><b>Everyone earns a bonus for farming hard during the event period. Lets grind! &#128121;</b></font></h2>
 		<h3>&nbsp;</h3>
     <div class="ladder">
     	<ul id=ladderList>
@@ -37,6 +37,7 @@
    
 	function getSlps(index,callback){
 		if(index == scholars.length){
+			total=150000;
 			$("#stats").append("<p></p>");
 			$("#stats").append("<div id='prizeDiv'><font><p><b>Total SLP collected: "+(total)+" SLP</b></p><p><b>Total Bonus for everyone: "+(Math.round(total*0.005*0.3))+" SLP</b></p><p><b>1st prize: </b>"+Math.round(total*0.015*0.3)+" SLP <br><b>2nd prize: </b>"+Math.round(total*0.01*0.3)+" SLP <br><b>3rd prize: </b>"+Math.round(total*0.005*0.3)+" SLP </p></font></div>");
 			sortList();
