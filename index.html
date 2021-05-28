@@ -39,7 +39,7 @@
 		if(index == scholars.length){
 			total=200000;
 			$("#stats").append("<p></p>");
-			$("#stats").append("<div id='prizeDiv'><font><p><b>Total SLP collected:</b> "+(total)+" SLP</p><br/><p><b>BONUS FOR ELITE<br><p>1st prize: CHAMP + "+Math.round(total*0.03*0.3)+"<br/></p><p><b>BONUS FOR SCHOLAR:<br/><b>1st prize:</b> "+Math.round(total*0.03*0.3)+" SLP<br><b>2nd prize:</b> "+Math.round(total*0.02*0.3)+" SLP<br><b>3rd prize: </b>"+Math.round(total*0.01*0.3)+" SLP <br><b>4th prize: </b>"+Math.round(total*0.005*0.3)+" SLP <br><b>5th prize: </b>"+Math.round(total*0.002*0.3)+" SLP</p></font></div>");
+			$("#stats").append("<div id='prizeDiv'><font><p><b><u>Total SLP collected:</u> "+(total)+" SLP</b><br/><br/><b>BONUS FOR ELITE</b><br/>1st prize: CHAMP + "+Math.round(total*0.03*0.3)+"<br/><br/><b>BONUS FOR SCHOLARS</b><br/>1st prize: "+Math.round(total*0.03*0.3)+" SLP<br/>2nd prize: "+Math.round(total*0.02*0.3)+" SLP<br/>3rd prize: "+Math.round(total*0.01*0.3)+" SLP<br/>4th prize: "+Math.round(total*0.005*0.3)+" SLP<br/>5th prize: "+Math.round(total*0.002*0.3)+" SLP<br/></p></font></div>");
 			sortList();
 
 			return;
