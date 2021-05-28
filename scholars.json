@@ -3,300 +3,336 @@ var scholars=[
 "slot": "1",
 "name": "@opelplays",
 "adress": "0x18e464aA4eF0F17ea1Cd7FfF7d1C7526Ce6Ff804",
-"slpsnapshot": "21594"
+"slpsnapshot": "16160"
 },
 {
 "slot": "2",
 "name": "@third709",
 "adress": "0x600fc520d32d61E4Be0DE1D0Ae3550d4D1CEEC8e",
-"slpsnapshot": "25446"
+"slpsnapshot": "22423"
 },
 {
 "slot": "3",
 "name": "@itsmeAL",
 "adress": "0x06799E93aFe90ECD51a806b793f80737d9E03D35",
-"slpsnapshot": "23174"
+"slpsnapshot": "9613"
 },
 {
 "slot": "4",
 "name": "@HAYOP | ZULU",
 "adress": "0xE6D3DC3f73B211f0c654D4C0fe49f5A28a3efeb5",
-"slpsnapshot": "40152"
+"slpsnapshot": "10039"
 },
 {
 "slot": "5",
 "name": "@YaSaY",
 "adress": "0x4312d5E0d1352192671e0aE3F6fd36d1F05A6BB2",
-"slpsnapshot": "19837"
+"slpsnapshot": "22561"
 },
 {
 "slot": "6",
 "name": "@PA CO",
 "adress": "0x4B152aA8b3E5DBb216bF24d6Ac47B26a7cC82AC1",
-"slpsnapshot": "26325"
+"slpsnapshot": "7495"
 },
 {
 "slot": "7",
 "name": "@elvin",
 "adress": "0x09dA8895e350ec4a3bF6f1B0412913269c69920C",
-"slpsnapshot": "24790"
+"slpsnapshot": "17197"
 },
 {
 "slot": "8",
 "name": "@Ren",
 "adress": "0x6290C4383F3eF74d0CBc64130a9FE3C5c36E4c9d",
-"slpsnapshot": "43805"
+"slpsnapshot": "31441"
 },
 {
 "slot": "9",
 "name": "@CASHLY-NICOLE",
 "adress": "0x88e4489427273A0b834D382e0eB1e044D332A118",
-"slpsnapshot": "13452"
+"slpsnapshot": "14839"
 },
 {
 "slot": "10",
 "name": "@Zyndryx",
 "adress": "0x646A206F31B856D289CfF042268B213cE73DaC2b",
-"slpsnapshot": "25716"
+"slpsnapshot": "9866"
 },
 {
 "slot": "11",
 "name": "@Coco_",
 "adress": "0x270F106B60499fcD56D5a10483af57882b2a88e5",
-"slpsnapshot": "43934"
+"slpsnapshot": "68928"
 },
 {
 "slot": "12",
 "name": "@ben.",
 "adress": "0xD36776FB01D6C86a9417a3eb763e2a7edBb5209d",
-"slpsnapshot": "21312"
+"slpsnapshot": "14014"
 },
 {
 "slot": "13",
 "name": "@tsunayoshi",
 "adress": "0x1CA9aa7c402335ADf401864CD6A26A38a84c781B",
-"slpsnapshot": "17408"
+"slpsnapshot": "15471"
 },
 {
 "slot": "14",
 "name": "@enteng",
 "adress": "0xb70F4dc62807349A0E0069FF83CaB7396327df7D",
-"slpsnapshot": "18517"
+"slpsnapshot": "10960"
 },
 {
 "slot": "15",
 "name": "@Eizen",
 "adress": "0x7F8B35556fDF268319066b79B52B307513e5dA21",
-"slpsnapshot": "18327"
+"slpsnapshot": "10652"
 },
 {
 "slot": "16",
 "name": "@JMAN",
 "adress": "0x2B35f5bCBd198ac1b6D2E3F156Efb1588cB7085C",
-"slpsnapshot": "15895"
+"slpsnapshot": "10199"
 },
 {
 "slot": "17",
 "name": "@Mike Bolanio",
 "adress": "0x3133D1009E280ea0fA7Efa171823d2DaEfcad208",
-"slpsnapshot": "23790"
+"slpsnapshot": "24890"
 },
 {
 "slot": "18",
-"name": "@Ashton",
+"name": "@spacejam",
 "adress": "0x0F315C952f20005A11286047c4DeeE74B2885E24",
-"slpsnapshot": "19338"
+"slpsnapshot": "12274"
 },
 {
 "slot": "19",
 "name": "@awit",
 "adress": "0x1e7857b8911A0F8b4fED9f98cab362eD9EA8e9B4",
-"slpsnapshot": "14175"
+"slpsnapshot": "11966"
 },
 {
 "slot": "20",
 "name": "@fafapp",
 "adress": "0xCf36d961B36a008e00589046f32215366D5534B4",
-"slpsnapshot": "19356"
+"slpsnapshot": "7444"
 },
 {
 "slot": "21",
-"name": "@swooshyy",
+"name": "@Perkyyy",
 "adress": "0xFE5de666F1126F1F74264e8FDC2e8039C2ad08B2",
-"slpsnapshot": "23841"
+"slpsnapshot": "9613"
 },
 {
 "slot": "22",
-"name": "@! ValaR",
+"name": "@!Valar",
 "adress": "0x90b55a9251C9941FCff74F9134d83FBD77427A46",
-"slpsnapshot": "18569"
+"slpsnapshot": "12316"
 },
 {
 "slot": "23",
 "name": "@Terrius",
 "adress": "0x1eD6319E91E0A2B01562F638C97278B46F2ab7CD",
-"slpsnapshot": "14626"
+"slpsnapshot": "4643"
 },
 {
 "slot": "24",
 "name": "@Temerarious",
 "adress": "0xc5eB016D5A4FedEB2dAf6980BB3DfDdCe6AeD4D1",
-"slpsnapshot": "44018"
+"slpsnapshot": "13829"
 },
 {
 "slot": "25",
-"name": "@Pump",
+"name": "@Killuatts",
 "adress": "0xD26cC9Db01633f8F517A1751924271636A8f1F10",
-"slpsnapshot": "18916"
+"slpsnapshot": "13072"
 },
 {
 "slot": "26",
-"name": "@Rudy",
+"name": "@ALECK",
 "adress": "0x7938c41EF57ab11C6343f41B7e38ca92F5A5cd5C",
-"slpsnapshot": "23121"
+"slpsnapshot": "14026"
 },
 {
 "slot": "27",
 "name": "@habadu",
 "adress": "0xBaAc99FfFd067E4F8c08Bdedb0278537E4Fe25fa",
-"slpsnapshot": "41749"
+"slpsnapshot": "13261"
 },
 {
 "slot": "28",
 "name": "@Kaiizer",
 "adress": "0xa778FA3Bb333090F9BD1aF2be04D885bb9D09f23",
-"slpsnapshot": "11547"
+"slpsnapshot": "10020"
 },
 {
 "slot": "29",
 "name": "@cupcake",
 "adress": "0xdA34663D49C5dEfb73dEf6794fdde2fd306EBdb0",
-"slpsnapshot": "13720"
+"slpsnapshot": "9900"
 },
 {
 "slot": "30",
 "name": "@Ice",
 "adress": "0x63C56CF006D0274cF36c0e0A38A3e90ea87E1e57",
-"slpsnapshot": "44230"
+"slpsnapshot": "32719"
 },
 {
 "slot": "31",
 "name": "@Johnns",
 "adress": "0x53eAA23f373573D1206149b946E2F724177f963C",
-"slpsnapshot": "25117"
+"slpsnapshot": "21440"
 },
 {
 "slot": "32",
 "name": "@zoroku",
 "adress": "0x42cEa998aBE653FCAE8939a038861161F1f73984",
-"slpsnapshot": "11663"
+"slpsnapshot": "5805"
 },
 {
 "slot": "33",
 "name": "@Arcreact",
 "adress": "0x52C4ae700e508f35B9157f4C4216B45C936f6F27",
-"slpsnapshot": "21021"
+"slpsnapshot": "20371"
 },
 {
 "slot": "34",
 "name": "@Tobi_69",
 "adress": "0x662Abea7be70967Fd216cCf8f8A56D90Bf2DbC2b",
-"slpsnapshot": "13111"
+"slpsnapshot": "9869"
 },
 {
 "slot": "35",
 "name": "@ahearts60",
 "adress": "0x0712AaB7b44cbb3B7Ac4270c7d35810994998871",
-"slpsnapshot": "19177"
+"slpsnapshot": "16341"
 },
 {
 "slot": "36",
 "name": "@megu",
 "adress": "0xcd8fB7D1E72374922Ccf3D8fd7B8A715375c42a5",
-"slpsnapshot": "16951"
+"slpsnapshot": "11340"
 },
 {
 "slot": "37",
 "name": "@Rhyolite",
 "adress": "0x6805F9482CCb105f9876018b0FBE466115Ef0F7c",
-"slpsnapshot": "15294"
+"slpsnapshot": "18269"
 },
 {
 "slot": "38",
 "name": "@kowner",
 "adress": "0x38650c3be5341F7E405F9070Aa4e0C7459A58Fb7",
-"slpsnapshot": "13832"
+"slpsnapshot": "7508"
 },
 {
 "slot": "40",
 "name": "@Domooo // Kisuke",
 "adress": "0x725e6fcB593F87e7187f74e5673b6Ee2011d5aEf",
-"slpsnapshot": "19422"
+"slpsnapshot": "13936"
 },
 {
 "slot": "41",
 "name": "@Kouhryu",
 "adress": "0x56f99D7BCcEC777e4068d514ACe47440d6e910FA",
-"slpsnapshot": "15012"
+"slpsnapshot": "9958"
 },
 {
 "slot": "42",
 "name": "@darewere",
 "adress": "0xe4D04c4dBc140B8D09e2dc266FA544b0971E20F6",
-"slpsnapshot": "18923"
+"slpsnapshot": "11510"
 },
 {
 "slot": "43",
 "name": "@samuraisan",
 "adress": "0xF80fb8E1327950fc975D9e5dd187ffb1b145aC14",
-"slpsnapshot": "18292"
+"slpsnapshot": "30599"
 },
 {
 "slot": "44",
 "name": "@Ai",
 "adress": "0x563aD8a863f937Ac8646A4F168a1171b16ABC8d6",
-"slpsnapshot": "13866"
+"slpsnapshot": "9190"
 },
 {
 "slot": "45",
 "name": "@baragbagan",
 "adress": "0xb6DaD2b71a9e8923cF0A3FA7F169419497996925",
-"slpsnapshot": "16693"
-},
-{
-"slot": "46",
-"name": "@Barbarian Queen",
-"adress": "0xb7954A12B7a45F135DA7C33F1196c995882FC658",
-"slpsnapshot": "16105"
+"slpsnapshot": "16330"
 },
 {
 "slot": "47",
 "name": "@Najim",
 "adress": "0x13102a42a2BEce68A0fc4f8F203eE88b695B7FD4",
-"slpsnapshot": "14048"
+"slpsnapshot": "13895"
 },
 {
 "slot": "48",
 "name": "@blank",
 "adress": "0x22AE7B5ef1Bfa912066852b123b594aDa66B86d6",
-"slpsnapshot": "15330"
+"slpsnapshot": "21267"
 },
 {
 "slot": "49",
 "name": "@dj.mbbz",
 "adress": "0xAD095De41A962FeA804fF2E3b378BFAE1E030217",
-"slpsnapshot": "8562"
+"slpsnapshot": "19668"
 },
 {
 "slot": "50",
 "name": "@Je'thaime",
 "adress": "0x1A3f6419C8f3051A55BA60D823c97f7cE2B56D8A",
-"slpsnapshot": "8700"
+"slpsnapshot": "17523"
 },
 {
 "slot": "51",
 "name": "@eladnor",
 "adress": "0x8Cc557128950F13671F0f1A7445D61a0119Ee43D",
-"slpsnapshot": "7933"
+"slpsnapshot": "16504"
+},
+{
+"slot": "52",
+"name": "@ciello",
+"adress": "0xcAb46fDBCC1fBBd87425d66476b905feeb78B7dB",
+"slpsnapshot": "2244"
+},
+{
+"slot": "53",
+"name": "@paTrick sTar",
+"adress": "0xf0195BD2dd0CdD52616c4f82897344424B8E680E",
+"slpsnapshot": "2121"
+},
+{
+"slot": "54",
+"name": "@Azphyrus",
+"adress": "0x91a599E268b745155e97a00E5A202Ae1F0293558",
+"slpsnapshot": "1845"
+},
+{
+"slot": "55",
+"name": "@Xcygi",
+"adress": "0xC338C9aA4F3d5C01bfbA866686aBc53549F56302",
+"slpsnapshot": "2059"
+},
+{
+"slot": "56",
+"name": "@joymae14",
+"adress": "0x05aA3307e94A6aeAD7CA9F322dA8f9C9AC0ea8a1",
+"slpsnapshot": "2053"
+},
+{
+"slot": "57",
+"name": "@Salah",
+"adress": "0x9314ea6528814BFD6c9D85c5A66ef43f4d8462ce",
+"slpsnapshot": "1455"
+},
+{
+"slot": "58",
+"name": "@kei_ishbell",
+"adress": "0x92ABaE3c2C8a7dB7E0E9a5540eA00aB6E89c94aB",
+"slpsnapshot": "2105"
 },
 ]
