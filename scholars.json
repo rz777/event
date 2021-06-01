@@ -42,12 +42,6 @@ var scholars=[
 "slpsnapshot": "17856"
 },
 {
-"slot": "8",
-"name": "@Ren",
-"adress": "0x6290C4383F3eF74d0CBc64130a9FE3C5c36E4c9d",
-"slpsnapshot": "32393"
-},
-{
 "slot": "9",
 "name": "@CASHLY-NICOLE",
 "adress": "0x88e4489427273A0b834D382e0eB1e044D332A118",
