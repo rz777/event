@@ -38,7 +38,7 @@
 	function getSlps(index,callback){
 		if(index == scholars.length){
 			$("#stats").append("<p></p>");
-			$("#stats").append("<div id='prizeDiv'><font><p><b><u>Total SLP collected:</u> "+(total)+" SLP</b><br/><br/><b>BONUS FOR ELITE</b><br/>1st prize: CHAMP + "+Math.round(total*0.03*0.3)+"<br/><br/><b>BONUS FOR SCHOLARS</b><br/>1st prize: ELITE + "+Math.round(total*0.03*0.3)+" SLP<br/>2nd prize: ELITE + "+Math.round(total*0.02*0.3)+" SLP<br/>3rd prize: ELITE + "+Math.round(total*0.01*0.3)+" SLP<br/></p></font></div>");
+			$("#stats").append("<div id='prizeDiv'><font><p><b><u>Total SLP collected:</u> "+(total)+" SLP</b><br/><br/><b>BONUS FOR ELITE</b><br/>1st prize: CHAMP + "+Math.round(total*0.03*0.3)+"<br/><br/><b>PRIZES</b><br/>1st: ELITE + "+Math.round(total*0.03*0.3)+" SLP<br/>2nd: ELITE + "+Math.round(total*0.02*0.3)+" SLP<br/>3rd: ELITE + "+Math.round(total*0.01*0.3)+" SLP<br/>4th & 5th: ELITE<br/></p></font></div>");
 			sortList();
 			return;
 		}else{
