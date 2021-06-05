@@ -54,12 +54,6 @@ var scholars=[
 "slpsnapshot": "10511"
 },
 {
-"slot": "11",
-"name": "@Coco_",
-"adress": "0x270F106B60499fcD56D5a10483af57882b2a88e5",
-"slpsnapshot": "70331"
-},
-{
 "slot": "12",
 "name": "@ben.",
 "adress": "0xD36776FB01D6C86a9417a3eb763e2a7edBb5209d",
@@ -148,12 +142,6 @@ var scholars=[
 "name": "@ALECK",
 "adress": "0x7938c41EF57ab11C6343f41B7e38ca92F5A5cd5C",
 "slpsnapshot": "14512"
-},
-{
-"slot": "27",
-"name": "@habadu",
-"adress": "0xBaAc99FfFd067E4F8c08Bdedb0278537E4Fe25fa",
-"slpsnapshot": "14076"
 },
 {
 "slot": "28",
